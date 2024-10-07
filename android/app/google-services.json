@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936352345850",
+    "project_id": "driver-manager-e8224",
+    "storage_bucket": "driver-manager-e8224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936352345850:android:51c1f384ee1a57077fa343",
+        "android_client_info": {
+          "package_name": "com.example.driver_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936352345850-mlurutf20ib032jf2o5ktn8o3lp5nukl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy92wfijus65RnylZx5F48RAjm1__WvO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936352345850-mlurutf20ib032jf2o5ktn8o3lp5nukl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
